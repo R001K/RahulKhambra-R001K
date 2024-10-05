@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/rahulkhambra36" target="blank">
+  <a href="https://x.com/KhambraRahul001" target="blank">
     <img src="https://img.shields.io/twitter/follow/rahulkhambra36?logo=twitter&style=for-the-badge" alt="rahulkhambra36" />
   </a> 
 </p>
